@@ -125,5 +125,5 @@ io.on("connection", (socket) => {
 
 // 🚀 Start the Server
 server.listen(process.env.port, () => {
-  console.log("🚀 Server running at http://localhost:8000");
+  console.log("🚀 Server running at https://chatzoom-ms7e.onrender.com");
 });
